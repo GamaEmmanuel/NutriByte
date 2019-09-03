@@ -1,0 +1,7 @@
+This program allows the user to calculate the nutrients she should eat based on height, weight and age. 
+The user chooses the food she is consumming and the program will automatically show the percentage of the calories she
+is consuming based on a standar nutrition standar 
+
+All the .java files should be in the same directory. The other excel files are for testing different profiles; this is with the 
+intention that a doctor can review several patients eating habits easily. However, the program also allow the doctor to input 
+data directly.  
